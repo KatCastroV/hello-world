@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+Hello to all friends beyond the binary!
